@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConfigLibrary.JsonConfigHelper" Collapsed="true">
+    <Position X="1.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JsonConfigHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigLibrary.XmlConfigHelper" Collapsed="true">
+    <Position X="4.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XmlConfigHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigLibrary.ConfigBase" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAACAAAAIgAAAAAAA=</HashCode>
+      <FileName>ConfigBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigLibrary.RegistryConfigHelper" Collapsed="true">
+    <Position X="7" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RegistryConfigHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigLibrary.ConfigFactory">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConfigFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigLibrary.ConfigHelper">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConfigHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
